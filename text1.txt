@@ -1,0 +1,11 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 70C0-2B69
+
+ Directory of C:\Users\abc\Documents\JenkinsRnD\pycode
+
+23-09-2019  23:01    <DIR>          .
+23-09-2019  23:01    <DIR>          ..
+23-09-2019  20:50                23 pyexmp.py
+23-09-2019  23:01                 0 text1.txt
+               2 File(s)             23 bytes
+               2 Dir(s)  266,287,161,344 bytes free
